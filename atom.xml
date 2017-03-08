@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Başlık]]></title>
-  <link href="https://hakan.github.io/atom.xml" rel="self"/>
-  <link href="https://hakan.github.io/"/>
-  <updated>2017-03-09T01:40:48+03:00</updated>
-  <id>https://hakan.github.io/</id>
+  <link href="hakan.github.io/atom.xml" rel="self"/>
+  <link href="hakan.github.io/"/>
+  <updated>2017-03-09T01:42:04+03:00</updated>
+  <id>hakan.github.io/</id>
   <author>
     <name><![CDATA[hakan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[At]]></title>
-    <link href="https://hakan.github.io/blog/2017/03/09/at/"/>
+    <link href="hakan.github.io/blog/2017/03/09/at/"/>
     <updated>2017-03-09T00:28:29+03:00</updated>
-    <id>https://hakan.github.io/blog/2017/03/09/at</id>
+    <id>hakan.github.io/blog/2017/03/09/at</id>
     <content type="html"><![CDATA[<h1>hakan</h1>
 ]]></content>
   </entry>

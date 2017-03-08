@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://hakan.github.io/sitemap.xml 
+Sitemap: hakan.github.io/sitemap.xml 
